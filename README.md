@@ -37,9 +37,8 @@ Instagram animated background color with CAGradientLayer
         self.view.layer.insertSublayer(gradientLayer2, atIndex: 1);
         self.view.layer.insertSublayer(gradientLayer3, atIndex: 2);
         self.view.layer.insertSublayer(gradientLayer4, atIndex: 3);
+```
         
-        ```
         
-        
-        add 4 gradientLayer to the 4 corners
+add 4 gradientLayer to the 4 corners
 
